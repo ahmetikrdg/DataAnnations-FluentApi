@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 namespace EFD
-{
+{ //data annations tanımı ve örnekleri: https://www.muratoner.net/aspnet/aspnet-mvc/mvc-data-annotionslar-ve-aciklamariyla-bol-ornekler
 
     public class ShopContext : DbContext
     {
